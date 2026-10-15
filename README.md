@@ -4,7 +4,7 @@
 
 This repository is the public description of a runnable, single-file demonstration. The demonstration itself is held privately; a walkthrough is available on request through the contact on the [Lab site](https://framework-optimization-lab.github.io/tania-mason-site/).
 
-Every page of the demonstration carries the same band: *proposed approach, fictional data, a demonstration of a decision path, not a process that has been run and not any organization's process.*
+Every page of the demonstration carries the same band: *proposed approach, fictional data, a clean-room demonstration of a decision path.*
 
 ## The problem it addresses
 
@@ -65,7 +65,7 @@ The decision-record discipline follows
 the named-review and audit-trail pattern follows
 [`governance-control-tower`](https://github.com/framework-optimization-lab/governance-control-tower).
 
-All plan data is fictional. Clean-room demonstration only. This is a proposed approach to a decision path, not a description of any organization's process.
+All plan data is fictional. Clean-room demonstration only. This is a proposed approach to a decision path.
 
 ## Access
 
